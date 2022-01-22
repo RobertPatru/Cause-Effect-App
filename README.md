@@ -1,3 +1,2 @@
 # Cause-Effect-App
-https://cause-effect-app.netlify.app/
-![image](https://user-images.githubusercontent.com/86546157/150639736-dd5f051a-78ef-43bf-972c-25093d28f248.png)
+![image](https://user-images.githubusercontent.com/86546157/150640216-c152b083-94fd-42d3-aca7-dc9555365970.png)
