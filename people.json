@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Patru Robert",
+        "phone": "076 954 2249",
+        "email": "robertpatru17@gmail.com",
+        "city": "Craiova",
+        "country": "Romania",
+        "birthday": "05.04.1997",
+        "profile_picture": "/img/profile_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gheorghe Mihai",
+        "phone": "077 224 2954",
+        "email": "mihaighe27@gmail.com",
+        "city": "Ciocanesti",
+        "country": "Romania",
+        "birthday": "08.10.1996",
+        "profile_picture": "/img/profile_2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Robert Iancu",
+        "phone": "076 442 2954",
+        "email": "robertiancu@gmail.com",
+        "city": "Ciocanesti",
+        "country": "Romania",
+        "birthday": "08.10.2005",
+        "profile_picture": "/img/profile_3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Vlad Ilie",
+        "phone": "072 781 566",
+        "email": "vladilie@gmail.com",
+        "city": "Craiova",
+        "country": "Romania",
+        "birthday": "16.07.1996",
+        "profile_picture": "/img/profile_4.jpg"
+    }
+]
